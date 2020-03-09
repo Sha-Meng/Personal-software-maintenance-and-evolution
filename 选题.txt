@@ -1,1 +1,7 @@
-个人课程报告选题
+个人课程报告选题：C++程序设计语言中类的设计与演化
+参考文献：
+《c++语言的设计与演化》
+《C++ Primer》
+Classes:an abstract data type facility for the C language
+《My C++ Template Metaprogramming:Concepts, Tools, and Techniques from Boost and Beyond》
+《The C++ Programmeing Language》
